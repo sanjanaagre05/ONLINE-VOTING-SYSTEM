@@ -1,0 +1,135 @@
+body{
+    text-align: center;
+    background-color:#f4f6f9;
+}
+
+#imagecss{
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+    width:30%;
+}
+
+#headerSection{
+    background-color: #2a5298;
+    color: white;
+    padding: 20px;
+}
+
+#headerSection h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+input{
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#dropbox{
+    padding: 10px;
+    border-radius: 5px;
+    width: 15%;
+}
+
+#loginbutton{
+    padding: 5px;
+    font-size: 15px;
+    border-radius: 5px;
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+}
+
+#role{
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    width: 30%;
+}
+
+#backbtn{
+    padding: 5px;
+    font-size: 15px;
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    float: left;
+    margin: 10px;
+}
+
+#logoutbtn{
+    padding: 5px;
+    font-size: 15px;
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    float: right;
+    margin: 10px;
+}
+
+#Profile{
+    background-color: white;
+    width: 30%;
+    padding: 20px;
+    float: left;
+}
+
+#Group{
+    background-color: white;
+    width: 60%;
+    padding: 20px;
+    float: right;
+}
+
+#votebtn{
+    padding: 5px;
+    font-size: 15px;
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+}
+
+#mainpanel{
+    padding: 10px;
+}
+
+#voted{
+    padding: 5px;
+    font-size: 15px;
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+}
+
+#address{
+    width:30%;
+}
+
+#imagepart{
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    width: 30%;
+}
+
+#role{
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    width: 30%;
+}
+
+#role select{
+    border-radius: 5px;
+    padding: 10px;
+}
+
+
+.bottom-line{
+    width:100%;
+    height:50px;
+    background-color:#365899;
+    position:fixed;
+    bottom:0;
+    left:0;
+}
